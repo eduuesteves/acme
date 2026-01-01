@@ -5,7 +5,7 @@ export const FindByName = () => {
 
     const [name, setName] = useState('');
 
-    const ourArray = JSON.parse( localStorage.getItem("SalvandoDados"))
+    const ourArray = JSON.parse(localStorage.getItem("SalvandoDados")) || [];
 
     console.log(ourArray)
 
@@ -14,6 +14,7 @@ export const FindByName = () => {
             <legend>Encontre pelo nome</legend>
             <input
                 type="text"
+                value={name}
                 onChange={(e) => setName(e.target.value)}
                 placeholder="Digite o nome aqui"
             />

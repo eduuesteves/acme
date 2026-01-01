@@ -1,7 +1,7 @@
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import { useState } from "react";
 import * as yup from "yup";
-import { api } from "../../Services/api";
+import { api } from "../../services/api";
 import { Modal } from "../Modal";
 
 import "./styles.scss";

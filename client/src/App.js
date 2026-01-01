@@ -1,7 +1,7 @@
-import { Header } from "./Components/Header";
+import { Header } from "./components/Header";
 import { Routess } from "./Routes";
 
-import "./App.scss";
+import "./app.scss";
 
 export function App() {
   return (

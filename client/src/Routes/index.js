@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import { Dashboard } from "../Components/Dashboard";
-import { Find } from "../Components/Find";
-import { FindByName } from "../Components/FindByName";
-import { Register } from "../Components/Register";
-import { Update } from "../Components/Update";
+import { Dashboard } from "../components/Dashboard";
+import { Find } from "../components/Find";
+import { FindByName } from "../components/FindByName";
+import { Register } from "../components/Register";
+import { Update } from "../components/Update";
 
 
 export const Routess = () => {

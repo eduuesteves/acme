@@ -1,4 +1,4 @@
-import { api } from "../../Services/api";
+import { api } from "../../services/api";
 import { useEffect, useState } from "react";
 import { Table } from "../Table";
 

@@ -1,9 +1,17 @@
 # Acme
 
+## Atualizações
+
+### 1.1
+
+    - O projeto backend foi inicialmente desenvolvimento com javascript, agora sendo atualizado para typescript
+    - Correção do frontend que não estava buscando os dados dos pacientes no banco de dados
+    - Foi alterado o banco de dados de MySQL para SQLite, para maximizar o desenvolvimento.
+
 ## Neste projeto vamos usar:
 
     - Framework - Reactjs
-    - Banco de cados - Mysql
+    - Banco de cados - SQLite
 
 ## Serão duas pastas:
 
