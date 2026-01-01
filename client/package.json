@@ -15,7 +15,7 @@
     "react-scripts": "5.0.1",
     "sass": "^1.97.1",
     "web-vitals": "^5.1.0",
-    "yup": "^0.32.11"
+    "yup": "^1.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
