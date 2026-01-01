@@ -2,6 +2,10 @@
 
 ## Atualizações
 
+### 1.2
+
+    - O projeto havia sido criado usando o comando Creact React App, por isso, foi reconfigurado com Vite
+
 ### 1.1
 
     - O projeto backend foi inicialmente desenvolvimento com javascript, agora sendo atualizado para typescript
