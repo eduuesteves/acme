@@ -12,6 +12,10 @@
     - Correção do frontend que não estava buscando os dados dos pacientes no banco de dados
     - Foi alterado o banco de dados de MySQL para SQLite, para maximizar o desenvolvimento.
 
+## Layout
+
+![Layout da Aplicação](image.png)
+
 ## Neste projeto vamos usar:
 
     - Framework - Reactjs
