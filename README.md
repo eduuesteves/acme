@@ -2,11 +2,19 @@
 
 ## Atualizações
 
+### 1.2
+
+    - O projeto havia sido criado usando o comando Creact React App, por isso, foi reconfigurado com Vite
+
 ### 1.1
 
     - O projeto backend foi inicialmente desenvolvimento com javascript, agora sendo atualizado para typescript
     - Correção do frontend que não estava buscando os dados dos pacientes no banco de dados
     - Foi alterado o banco de dados de MySQL para SQLite, para maximizar o desenvolvimento.
+
+## Layout
+
+![Layout da Aplicação](image.png)
 
 ## Neste projeto vamos usar:
 
